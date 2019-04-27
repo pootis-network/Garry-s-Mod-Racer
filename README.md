@@ -1,3 +1,5 @@
+
+![gamemode_logo]()
 # Garry-s-Mod-Racer
 Port of 2011's popular GMOD gamemode, GMOD Racer!
 # About
