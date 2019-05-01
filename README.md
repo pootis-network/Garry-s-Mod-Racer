@@ -1,5 +1,5 @@
 
-![gamemode_logo](https://raw.githubusercontent.com/pootis-network/Garry-s-Mod-Racer/master/logos/GRacerLogo.jpg)
+![gamemode_logo](https://raw.githubusercontent.com/pootis-network/Garry-s-Mod-Racer/master/logo.png)
 # Garry-s-Mod-Racer
 Port of 2011's popular GMOD gamemode, GMOD Racer!
 # About
