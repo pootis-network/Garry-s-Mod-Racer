@@ -7,4 +7,6 @@ to the death and reach 1st place. You can also purchase perks and upgrades thru 
 # Installation
 i wouldn't install this at the moment if i were you, there are 2 MAJOR server-breaking bugs.
 # Workshop????!?!??
-not yet. dont trust others.
+
+ServerContent:
+https://steamcommunity.com/sharedfiles/filedetails/?id=1726425641&searchtext=gmod+racer+content
